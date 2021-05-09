@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://eliasoprado.github.io/csb-m614g/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://eliasoprado.github.io/csb-m614g/static/js/main.ab0c0907.chunk.js",
+    "main.js.map": "https://eliasoprado.github.io/csb-m614g/static/js/main.ab0c0907.chunk.js.map",
+    "runtime-main.js": "https://eliasoprado.github.io/csb-m614g/static/js/runtime-main.d3adbc0c.js",
+    "runtime-main.js.map": "https://eliasoprado.github.io/csb-m614g/static/js/runtime-main.d3adbc0c.js.map",
+    "static/js/2.80e0db9d.chunk.js": "https://eliasoprado.github.io/csb-m614g/static/js/2.80e0db9d.chunk.js",
+    "static/js/2.80e0db9d.chunk.js.map": "https://eliasoprado.github.io/csb-m614g/static/js/2.80e0db9d.chunk.js.map",
+    "index.html": "https://eliasoprado.github.io/csb-m614g/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://eliasoprado.github.io/csb-m614g/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.80e0db9d.chunk.js.LICENSE.txt": "https://eliasoprado.github.io/csb-m614g/static/js/2.80e0db9d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3adbc0c.js",
+    "static/js/2.80e0db9d.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.ab0c0907.chunk.js"
+  ]
+}
